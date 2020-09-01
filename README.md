@@ -24,23 +24,4 @@ squad_optimise(
          exclude_bench=[],
          exclude_team_bench=['Brighton'])
          
-     ID       Player Name Position       Team Name  Value  expected_minutes  expected_points
-1   383            Lloris       GK           Spurs    5.5             697.0           32.001
-2   259  Alexander-Arnold      DEF       Liverpool    7.5             649.0           36.219
-3   255         Robertson      DEF       Liverpool    7.0             629.0           33.801
-4   123             James      DEF         Chelsea    5.0             549.0           28.790
-5   471           Vinagre      DEF          Wolves    4.5             501.0           24.301
-6   254             Salah      MID       Liverpool   12.0             580.0           45.328
-7   390               Son      MID           Spurs    9.0             539.0           33.512
-8   365           Redmond      MID     Southampton    6.5             626.0           27.821
-9   388              Kane      FWD           Spurs   10.5             634.0           39.237
-10  117            Werner      FWD         Chelsea    9.5             562.0           37.913
-11  202           Bamford      FWD           Leeds    5.5             595.0           27.120
-12   35            Nyland       GK     Aston Villa    4.0             170.0            6.680
-13  145          Ferguson      DEF  Crystal Palace    4.0               0.0            0.000
-14  131          McCarthy      MID  Crystal Palace    4.5             518.0           16.296
-15  191          Anguissa      MID          Fulham    4.5             385.0           12.698
-
-Squad value:  99.5 (First Team: 82.5 , Bench: 17.0 )
-Bank:  0.5
-First Team points:  366.043 ( Bench: 35.674 )
+<img width="560" alt="expected output" src="https://user-images.githubusercontent.com/55091575/91836787-2c64f800-ec43-11ea-9499-798ebc8db955.png">
