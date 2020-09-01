@@ -11,4 +11,4 @@ A description of the parameters that can be used in the squad optimiser are outl
 
 <img width="334" alt="squad optimise" src="https://user-images.githubusercontent.com/55091575/91836947-6635fe80-ec43-11ea-832d-04c367dd2451.png">
          
-<img width="560" alt="expected output" src="https://user-images.githubusercontent.com/55091575/91836787-2c64f800-ec43-11ea-9499-798ebc8db955.png">
+<img width="558" alt="expected" src="https://user-images.githubusercontent.com/55091575/91837354-0b50d700-ec44-11ea-8f02-300aa147753b.png">
