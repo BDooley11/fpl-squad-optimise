@@ -1,1 +1,1 @@
-# FPL-Squad-Optimise
+This script uses a python implementation of the 'knapsack problem' to pick the best 
