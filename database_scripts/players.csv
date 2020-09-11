@@ -27,6 +27,8 @@ ID,Player Name,Position,Team Name,Value
 26,Martinelli,MID,Arsenal,5.0
 27,Saliba,DEF,Arsenal,4.5
 478,Willian,MID,Arsenal,8.0
+494,Gabriel,DEF,Arsenal,5.0
+501,Ceballos,MID,Arsenal,5.0
 28,Heaton,GK,Aston Villa,4.5
 29,El Mohamady,DEF,Aston Villa,4.5
 30,Lansbury,MID,Aston Villa,4.5
@@ -52,10 +54,11 @@ ID,Player Name,Position,Team Name,Value
 50,Davis,FWD,Aston Villa,4.5
 51,Vassilev,FWD,Aston Villa,4.5
 52,Douglas Luiz,MID,Aston Villa,5.0
+496,Cash,DEF,Aston Villa,5.0
+514,Watkins,FWD,Aston Villa,6.0
 53,Murray,FWD,Brighton,5.0
 54,Lallana,MID,Brighton,6.5
 55,Stephens,MID,Brighton,4.5
-56,Button,GK,Brighton,4.0
 57,Groß,MID,Brighton,6.0
 58,Duffy,DEF,Brighton,4.5
 59,Pröpper,MID,Brighton,5.0
@@ -80,6 +83,7 @@ ID,Player Name,Position,Team Name,Value
 78,Connolly,FWD,Brighton,5.5
 79,Alzate,MID,Brighton,4.5
 80,Mac Allister,MID,Brighton,5.5
+503,Walton,GK,Brighton,4.0
 81,Tarkowski,DEF,Burnley,5.5
 82,Bardsley,DEF,Burnley,4.5
 83,Pieters,DEF,Burnley,4.5
@@ -107,7 +111,6 @@ ID,Player Name,Position,Team Name,Value
 105,Jorginho,MID,Chelsea,5.0
 106,Barkley,MID,Chelsea,6.0
 107,Kovacic,MID,Chelsea,5.5
-108,Batshuayi,FWD,Chelsea,6.0
 109,Rüdiger,DEF,Chelsea,5.0
 110,Zouma,DEF,Chelsea,5.0
 111,Emerson,DEF,Chelsea,5.0
@@ -125,6 +128,9 @@ ID,Player Name,Position,Team Name,Value
 123,James,DEF,Chelsea,5.0
 124,Gilmour,MID,Chelsea,4.5
 232,Chilwell,DEF,Chelsea,5.5
+490,Thiago Silva,DEF,Chelsea,5.5
+500,Havertz,MID,Chelsea,8.5
+108,Batshuayi,FWD,Crystal Palace,6.0
 125,Cahill,DEF,Crystal Palace,4.5
 126,Hennessey,GK,Crystal Palace,4.5
 127,Sakho,DEF,Crystal Palace,4.5
@@ -173,6 +179,9 @@ ID,Player Name,Position,Team Name,Value
 168,Gordon,MID,Everton,4.5
 169,Kean,FWD,Everton,6.0
 170,Branthwaite,DEF,Everton,4.0
+502,Allan,MID,Everton,5.5
+508,Rodríguez,MID,Everton,7.5
+512,Doucouré,MID,Everton,5.5
 171,Fabri,GK,Fulham,4.0
 172,McDonald,MID,Fulham,5.0
 173,Le Marchand,DEF,Fulham,4.5
@@ -197,6 +206,7 @@ ID,Player Name,Position,Team Name,Value
 192,Sessegnon,DEF,Fulham,4.5
 373,Reed,MID,Fulham,4.5
 484,Robinson,DEF,Fulham,4.5
+493,Lemina,MID,Fulham,4.5
 216,Morgan,DEF,Leicester,4.5
 217,Schmeichel,GK,Leicester,5.5
 218,Fuchs,DEF,Leicester,4.5
@@ -221,6 +231,7 @@ ID,Player Name,Position,Team Name,Value
 238,Söyüncü,DEF,Leicester,5.5
 239,Justin,DEF,Leicester,4.5
 240,Thomas,DEF,Leicester,4.5
+498,Castagne,DEF,Leicester,5.5
 193,Hernández,MID,Leeds,6.0
 194,Casilla,GK,Leeds,4.5
 195,Cooper,DEF,Leeds,4.5
@@ -244,6 +255,8 @@ ID,Player Name,Position,Team Name,Value
 213,Meslier,GK,Leeds,4.5
 214,Davis,DEF,Leeds,4.0
 215,Casey,DEF,Leeds,4.0
+491,Koch,DEF,Leeds,4.5
+492,Rodrigo,FWD,Leeds,6.0
 241,Milner,MID,Liverpool,5.5
 242,Tsimikas,DEF,Liverpool,5.0
 243,Wijnaldum,MID,Liverpool,5.5
@@ -323,6 +336,7 @@ ID,Player Name,Position,Team Name,Value
 317,Garner,MID,Man Utd,4.5
 318,Williams,DEF,Man Utd,4.5
 319,Mengi,DEF,Man Utd,4.0
+495,van de Beek,MID,Man Utd,7.0
 320,Carroll,FWD,Newcastle,5.5
 321,Shelvey,MID,Newcastle,5.5
 322,Ritchie,MID,Newcastle,5.0
@@ -350,6 +364,10 @@ ID,Player Name,Position,Team Name,Value
 485,Hendrick,MID,Newcastle,5.0
 487,Matty Longstaff,MID,Newcastle,5.0
 488,Gillespie,GK,Newcastle,4.5
+497,Murphy,MID,Newcastle,5.0
+506,Wilson,FWD,Newcastle,6.5
+507,Fraser,MID,Newcastle,6.0
+513,Lewis,DEF,Newcastle,4.5
 343,Sharp,FWD,Sheffield Utd,6.0
 344,McGoldrick,FWD,Sheffield Utd,5.5
 345,Basham,DEF,Sheffield Utd,5.0
@@ -365,11 +383,14 @@ ID,Player Name,Position,Team Name,Value
 355,Lundstram,MID,Sheffield Utd,5.5
 356,Osborn,MID,Sheffield Utd,5.0
 357,McBurnie,FWD,Sheffield Utd,6.0
-358,Callum Robinson,FWD,Sheffield Utd,5.5
 359,Mousset,FWD,Sheffield Utd,6.0
 360,Berge,MID,Sheffield Utd,5.0
+424,Burke,MID,Sheffield Utd,4.5
 477,Freeman,MID,Sheffield Utd,5.0
 483,Ramsdale,GK,Sheffield Utd,5.0
+509,Ampadu,DEF,Sheffield Utd,4.5
+510,Bogle,DEF,Sheffield Utd,4.5
+511,Lowe,DEF,Sheffield Utd,4.5
 361,Long,FWD,Southampton,5.5
 362,Bertrand,DEF,Southampton,5.0
 363,McCarthy,GK,Southampton,4.5
@@ -418,6 +439,8 @@ ID,Player Name,Position,Team Name,Value
 406,Foyth,DEF,Spurs,4.5
 457,Doherty,DEF,Spurs,6.0
 482,Hart,GK,Spurs,4.5
+56,Button,GK,West Brom,4.0
+358,Callum Robinson,FWD,West Brom,5.5
 407,Gibbs,DEF,West Brom,4.5
 408,Robson-Kanu,FWD,West Brom,5.5
 409,Livermore,MID,West Brom,5.0
@@ -435,10 +458,11 @@ ID,Player Name,Position,Team Name,Value
 421,Edwards,MID,West Brom,5.0
 422,Furlong,DEF,West Brom,4.5
 423,Field,MID,West Brom,5.0
-424,Burke,MID,West Brom,4.5
 425,O'Shea,DEF,West Brom,4.5
 426,Harper,MID,West Brom,4.5
+446,Diangana,MID,West Brom,5.5
 481,Pereira,MID,West Brom,6.0
+499,Kipre,DEF,West Brom,4.5
 427,Noble,MID,West Ham,5.0
 428,Snodgrass,MID,West Ham,6.0
 429,Martin,GK,West Ham,4.0
@@ -458,7 +482,6 @@ ID,Player Name,Position,Team Name,Value
 443,Balbuena,DEF,West Ham,4.5
 444,Hugill,FWD,West Ham,5.5
 445,Bowen,MID,West Ham,6.5
-446,Diangana,MID,West Ham,5.5
 447,Ajeti,FWD,West Ham,5.5
 448,Rice,MID,West Ham,5.0
 449,Soucek,MID,West Ham,5.0
@@ -488,3 +511,5 @@ ID,Player Name,Position,Team Name,Value
 474,Neto,MID,Wolves,5.5
 475,Jordao,MID,Wolves,4.5
 476,Campana,FWD,Wolves,5.0
+504,Fabio Silva,FWD,Wolves,5.5
+505,Marçal,DEF,Wolves,5.0
