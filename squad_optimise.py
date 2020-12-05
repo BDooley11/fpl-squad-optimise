@@ -188,7 +188,7 @@ def squad_optimise(metric=None, start_gw=None, end_gw=None, bench_value=None, ba
         m += xsum(x[i] for i in I if df['Position'][i] == "FWD") == 3 - fwdCount
 
         #Make sure not already in first team constraint
-        m += xsum(x[i] for i in I if df['ID'][i] in first_team['ID']) == 0
+        m += xsum(x[i] for i in I if df['ID'][i] in first_team['ID'].tolist()) == 0
 
         # max number of players per team and also exclude excluded teams.
         excludedTeams = [team.lower() for team in exclude_team_bench]

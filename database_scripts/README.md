@@ -4,4 +4,5 @@
 	-Select Team Planner -> Massive Data -> GW projection selcted max and put in your team id and submit.
 	-Scroll down and there will be option to download csv 'fplreview.csv'. 
 	- Save this csv in same folder as 'player_dataset_generator.ipynb' notebook.
+Alternatively run 'fplreview_selenium.py' which will download the spreadsheet from fplreview.com.
 4. Open 'player_dataset_generator.ipynb' and follow instruction in this notebook. The final result of which will be a csv called 'player_dataset.csv' which can be cut into the main folder and will be the csv which the model will use to make its selections.
